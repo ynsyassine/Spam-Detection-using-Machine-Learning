@@ -1,4 +1,4 @@
-# Spam Detection using Machine Learning
+# Spam Detection using Machine Learning and NLP
 
 This project aims to develop an effective spam detection system using machine learning techniques. The system is designed to classify text messages as either spam or ham (non-spam), helping users filter out unwanted messages and maintain a clutter-free inbox.
 
